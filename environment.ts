@@ -1,4 +1,3 @@
-[Forwarded from Max Bokhonko]
 export const environment = {
   production: false,
   apiKeys: 'AIzaSyDanBliCzAuCZrsq67FeKEs3vqAilUD_is',
